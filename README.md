@@ -1,3 +1,3 @@
-# Sixth_Semester_SPSS
+# Sixth Semester SPSS
 
 SPSS syntax files and other data files related to various practicals
